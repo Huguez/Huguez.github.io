@@ -1,2 +1,6 @@
 theme: jekyll-theme-slate
 name: Machine Learning
+title: Machine Learning
+description: Pagina web personal para mostar proyectos de interes.
+
+show_downloads: true
