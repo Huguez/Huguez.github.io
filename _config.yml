@@ -3,4 +3,4 @@ name: Machine Learning
 title: Machine Learning
 description: Pagina web personal para mostar proyectos de interes.
 
-show_downloads: true
+show_downloads: false
