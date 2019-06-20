@@ -1,6 +1,26 @@
-## Welcome to GitHub Pages
+# Aprendizaje por Refuerzo
 
-You can use the [editor on GitHub](https://github.com/Huguez/Huguez.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* Item
+* Item
+* Item
+* Item
+
+# Aprendijaze supervisado 
+
+* Item
+* Item
+* Item
+* Item
+
+
+# Aprendizaje no supervisado
+
+* Item
+* Item
+* Item
+* Item
+
+<!-- -You can use the [editor on GitHub](https://github.com/Huguez/Huguez.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -35,3 +55,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+->
