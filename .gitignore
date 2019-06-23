@@ -23,7 +23,7 @@
 /vendor
 .bundle/
 .sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+.jekyll-cache/ 
+.jekyll-metadata  
 Gemfile.lock
 
