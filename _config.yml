@@ -1,6 +1,33 @@
+title: Carlos Huguez
+
 theme: jekyll-theme-slate
-name: Machine Learning
-title: Machine Learning
+categories: Machine Learning
 description: Pagina web personal para mostar proyectos de interes.
 
 show_downloads: false
+encoding: UTF-8
+#direccion: https://github.com/huguez/
+email: carlos.huguez@gmail.com
+
+github: [metadata]  
+input: GFM 
+hard_wrap: false 
+
+twitter_username: _huguez
+github_username: huguez
+
+button:
+  - text: Learn More
+  - url: https://github.com/huguez/
+
+
+share-links-active:
+  twitter: true
+  faceook: true
+  linkedin: true
+
+plugins:
+     - jekyll-paginate
+     - jekyll-feed
+
+
