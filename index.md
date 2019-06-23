@@ -6,12 +6,12 @@
 * [Cliff walker](https://github.com/Huguez/Topicos_Avanzados_IA-/blob/master/Programacion_dinamica/chapter_6/cliff_walking.go)
 * [Windy Grindworld](https://github.com/Huguez/Topicos_Avanzados_IA-/blob/master/Programacion_dinamica/chapter_6/windy_gridworld.go)
 
-## Aprendizaje Supervisado 
+## Deep Learning
 
 * [Item](#)
-* Item
-* Item
-* Item
+* [Item](#)
+* [Item](#)
+* [Item](#)
 
 
 ## Aprendizaje No Supervisado
