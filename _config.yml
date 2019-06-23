@@ -6,8 +6,9 @@ description: Pagina web personal para mostar proyectos de interes.
 
 show_downloads: false
 encoding: UTF-8
-#direccion: https://github.com/huguez/
+repository_url: https://github.com/huguez/
 email: carlos.huguez@gmail.com
+
 
 github: [metadata]  
 input: GFM 
